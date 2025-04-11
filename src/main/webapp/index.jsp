@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suri stores - Online Shopping for Electronics & Fashion</title>
+    <title>Suristores - Online Shopping for Electronics & Fashion</title>
     <style>
         /* CSS Reset */
         * {
