@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ShopEasy - Online Shopping for Electronics & Fashion</title>
+    <title>Suri stores - Online Shopping for Electronics & Fashion</title>
     <style>
         /* CSS Reset */
         * {
