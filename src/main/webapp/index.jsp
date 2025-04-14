@@ -393,7 +393,7 @@
                         <img src="https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" alt="OnePlus 9 Pro">
                     </div>
                     <div class="product-info">
-                        <h3 class="product-title">OnePlus 9 Pro</h3>
+                        <h3 class="product-title">OnePlus suri 9 Pro</h3>
                         <div class="product-category">Smartphone</div>
                         <div class="product-price">64,999</div>
                         <div class="product-actions">
