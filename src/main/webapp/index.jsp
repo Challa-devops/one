@@ -276,13 +276,13 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <div class="logo">Shop<span>Easy</span></div>
+            <div class="logo">Suri<span>Easy</span></div>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#laptops">Laptops</a></li>
-                    <li><a href="#mobiles">Mobiles</a></li>
-                    <li><a href="#clothes">Clothes</a></li>
+                    <li><a href="#mobiles">covers</a></li>
+                    <li><a href="#clothes">shirts</a></li>
                     <li>
                         <a href="#" class="cart-icon">
                             Cart <span class="cart-count">0</span>
