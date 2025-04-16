@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Surendr stores - Online Shopping for Electronics & Fashion new</title>
+    <title>SURENDRA stores - Online Shopping for Electronics & Fashion new</title>
     <style>
         /* CSS Reset */
         * {
