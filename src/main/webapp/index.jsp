@@ -276,7 +276,7 @@
     <!-- Header -->
     <header>
         <div class="container header-container">
-            <div class="logo">Suri<span>Easy</span></div>
+            <div class="logo">SURENDRA<span>Easy</span></div>
             <nav>
                 <ul>
                     <li><a href="#">Home</a></li>
